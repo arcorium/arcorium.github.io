@@ -1,2 +1,0 @@
-# arcorium.github.io
-Documentation
